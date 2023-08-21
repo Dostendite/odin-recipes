@@ -1,0 +1,86 @@
+
+h1 {
+    font-family: 'Verdana', sans-serif;
+    background-color: #ffd063;
+}
+
+h2 {
+    font-family: 'Verdana', sans-serif;
+    background-color: #ffdf94;
+    color: #3d3d3d;
+}
+
+p {
+    background-color: #fff7de;
+}
+
+a {
+    color: black;
+}
+
+ul {
+    font-family: 'Tahoma', sans-serif;
+}
+
+ol {
+    font-family: 'Arial', sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border-radius: 1%;
+}
+
+ul.main-list {
+    background-color: #ffebb3;
+    color: grey;
+}
+
+/* descriptions */
+
+.tomato-salad-description {
+    color: red;
+}
+
+.spring-rolls-description {
+    color: green;
+}
+
+.crockpot-chicken-description {
+    color: orangered;
+}
+
+/* ingredients */
+
+#tomato-salad-ingredients {
+   background-color: #ffc8ba; 
+}
+
+#spring-rolls-ingredients {
+    background-color: #ebffe3;
+}
+
+#crockpot-chicken-ingredients {
+    background-color: #ffb663;
+}
+
+/* h2 & h3 headers */
+
+.tomato-salad-header {
+    color: white;
+    background-color: #fc3232;
+}
+
+.vietnamese-rolls-header {
+    color: white;
+    background-color: #58db00;
+}
+
+/* misc */
+
+ol.step-list {
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+}

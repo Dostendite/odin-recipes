@@ -1,7 +1,36 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Verdana', sans-serif;
+}
+
 
 h1 {
-    font-family: 'Verdana', sans-serif;
-    background-color: #ffd063;
+    background-color: #ffb200;
+}
+
+.main-header {
+    margin: 8px auto;
+    padding: 16px;
+    text-align: center;
+}
+
+.main-list {
+    padding: 16px;
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.main-list a {
+    background-color: #ffbe29;
+    display: block;
+    text-decoration: none;
+    margin: 12px 32px; 
+    padding: 12px;
 }
 
 h2 {
@@ -77,10 +106,20 @@ ul.main-list {
     background-color: #58db00;
 }
 
-/* misc */
 
 ol.step-list {
     background-color: black;
     color: white;
     font-family: 'Trebuchet MS', sans-serif;
+}
+
+.signature {
+    background-color: #0048cf;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+.signature a {
+    color: white;
 }

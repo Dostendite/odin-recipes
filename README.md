@@ -1,6 +1,6 @@
 # Odin Recipes
 
-👾 **Live** [preview](https://dostendite.github.io/odin-recipes/)
+👾 **Live** [**preview**](https://dostendite.github.io/odin-recipes/)
 
 First TOP Project
 

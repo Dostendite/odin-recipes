@@ -113,13 +113,14 @@ ol.step-list {
     font-family: 'Trebuchet MS', sans-serif;
 }
 
-.signature {
+.footer {
     background-color: #0048cf;
     color: white;
+    font-size: 24px;
     text-align: center;
     padding: 8px;
 }
 
-.signature a {
+.footer a {
     color: white;
 }
